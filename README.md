@@ -1,2 +1,1 @@
-# Multi_Class_Classification
-Multi Class Classification of Car loga dataset
+This repository I trained a CNN for multiclass calssification and also performed trasfer learning using pretrained Resnet and Xception networks
